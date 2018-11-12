@@ -21,3 +21,10 @@ spark-submit --master yarn-client --class Receiver /home/bd/lc/jar/KafkaSpark-x.
 
 Program submission may have some error, you can refer to the blog
 https://blog.csdn.net/baidu_27485577/article/details/83181110
+
+ip_address files:
+https://download.csdn.net/download/baidu_27485577/10778159
+
+logs files:
+https://download.csdn.net/download/baidu_27485577/10778189
+
